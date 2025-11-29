@@ -30,18 +30,18 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                 </g>
@@ -298,7 +298,7 @@
                             <span>DATAGNIKAN helped funding the work of 2 users and organizations.</span>
                         </div>
                         <div class="row">
-                            <img class="avatar past " src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAkACQDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAYHBQgBA//EACsQAAEEAQIFAwMFAAAAAAAAAAEAAgMEEQUhBhITQVExYXEUMpEiI6Gywf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/xAAUEQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIRAxEAPwCGUwchb9aACPqHYAZJWVWjEY5iVtUrcZHTkaOmRgknsgzNCvXtWsSPgNevAw/pbJGTzeMnsnqLTeZoOEncCNtDXZ2VGGau9pibIHBmWDIz7nZWGrp4bExuDsAN0Ca7SN/tQns0W+EIOer/ADdMNYTk7bKqaJX0yl9JppdGZJohIM9z75+D+FHqGoxnVIprp/aachqZLVize4lj1Ovj6YBrG9J2S0DyPnKC3aJpmmUJi+tXjjkky8geme+F94LVV1mzXheOpDJyFufIz/qVGao5tETdXL44yc+Tj0Wcx09S3SuV3B75m4tMPc+vP/OPwgpGQhLLOKtKILX34YntPK5rzuChBzNJ9h+F5VtWKrg6vNIw+xQhA78O69esUHMmex4ydy3fsmCCw+7pczpcB/TeA5mxGDthCEE/sXJo+RrXbYP9nIQhB//Z" width="19.200000000000003" height="19.200000000000003" alt="" />
+                            <img class="avatar past " src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAkACQDASIAAhEBAxEB/8QAGwAAAgIDAQAAAAAAAAAAAAAAAAYFBwIDBAj/xAAzEAABAwMBBgIIBwEAAAAAAAABAgMEAAURIQYSExQxYUFRFSIjQnFygbEHMjNSYqHB8P/EABgBAAMBAQAAAAAAAAAAAAAAAAEDBAIF/8QAHREAAgICAwEAAAAAAAAAAAAAAAECEQMhEhMxMv/aAAwDAQACEQMRAD8AtGwtWuzNuWyMplua4OYebUocRzzWfP8AzTtSvtbcHdore7bdm5kNDpHrSZIJS2j+HfvXLMdh7XSbc7bs+09qp3hfpDpvrPTf10Gdc9qXNr/w/gt7Q82kJegvRyy2laykN5BBzjroSQfA/SoIuymK3RotovmzNyhJvCoF6iEHhutJ3yyrXGNP+zVhWq/3C7XCNGZYLbDgJcfUdwt46gI0OfhmkSQzb9nLDDj22GN8Hl2XG08RW+dSSepHjTZsvN3iTOIEmMnhlxAKArIBPai2blEaJ3LpfwrmFEDqF9dT2orBN5tyhlrcWk+8QQD8NNR3oobMaNdntSrnJcjsvLbYazxHeEQCvOMa/m+mlT8/ZqN6KdjobMh10AFxRxjuK6be4ptD7xOBvdM6DArviTuM02XgeIR0xirMOCNWKlN2Kln2QDEpvnWG5DABRuq6AEg5HfIH9+dR192Fj2d6fdkTHZMBQ3/R7w9kgn4dR2+9WLxd1tB1xr96hZ8gXR6ZbfcLABHz5H+Ux4ItVQOxt2U9NjqnvcxKbWpa0jHDXhIT4ACilZ6Y+46svuFKwcY8hRUXM1wPRTiAbHJAJB4bmo69DUrEbTwG1Y9dSdVeNFFdHH8IW/Tev1mBnrUMiO23fHXEpwpTKQT8pXj7miimRAUptLbY7O0NzbbTuoEl3ACU/vPaiiiubL0aj//Z" width="19.200000000000003" height="19.200000000000003" alt="" />
                             <img class="avatar past " src="data:image/jpg;base64,/9j/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcUFhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCAAkACQDASIAAhEBAxEB/8QAHAAAAgICAwAAAAAAAAAAAAAAAAcEBQYIAQID/8QALxAAAQMDAwEHBAEFAAAAAAAAAQIDBAAFEQYSIRMiMUFRYXGBBxQWMhUjQ2KRof/EABYBAQEBAAAAAAAAAAAAAAAAAAIBA//EABsRAQACAgMAAAAAAAAAAAAAAAABERIhMTJB/9oADAMBAAIRAxEAPwBDaPd6rdzaxjcwn/hr0fHUbGfKo+inENXp1p4hKC2QSTgd4qSvAAFZVtfFVJhvmI7JDLhjtqCFOBPYBOcAn4P+qhobUGUKwdh4BxxmmDpO59Ww3+yNxlyfuAHAEo3jIQvg+udpHrXGobLcGdHW6E5GlIXDccdDSmAOHOT2wecbEd48ame6PDVl/iiu3dRTZrK9SP4pkwmCPvScvrGD0/8AD38z8VQolSVkjruYPJ5pi/jFmEd191Lcl0j+mll84z68nJ+U/NQfxK3pkKSh+UJZ/WI0nqLB8jirlC1Kk0Vd52nL0zcoJZ3JP6vjLbg8jWdfUzUVzN1YkMx340aTHC9roDiN6878HuI8PapOh9C3qPOLzARHbKv74RvQPbnmngnTsadaRb7lDQ5HJ37QcI3eeBjxzWc9roo4agJiyHRvRHcUD47TRWz836SyVPk22c0mNjspeR2k+ntRTuAqSd03CavuoZ8GWOlGjqylEdKW93vgcfGKcGn7VBtzBbhRWmUp79o5V7nxooqEy6FGaVHUSnlOMVkdoYQ4kKWCT3UUUZKF1gI7KRwKKKKJP//Z" width="19.200000000000003" height="19.200000000000003" alt="" />
                         </div>
                     </section>
@@ -306,7 +306,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Nov 2025, 00:23:16 (timezone Africa/Lome) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Nov 2025, 00:23:37 (timezone Africa/Lome) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
